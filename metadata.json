@@ -1,0 +1,6 @@
+{
+  "name": "TrendSphere",
+  "description": "A modern content and news platform focused on technology, cryptocurrency, business, entertainment, and lifestyle trends with integrated ad monetization features and real-time revenue simulator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
